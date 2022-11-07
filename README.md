@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @FrankTheUser
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🎈Ciao sono Jacopo è sono un aspirante programmatore
+✨Ho 13 Anni
+👓Programmo in Python
+🎉E su github mettero la maggior parte delle mie idee
 
-<!---
-FrankTheUser/FrankTheUser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+🖼Discord Nick: astroboy7509#7841
+📨Online mi faccio chiamare astroboy7509
+
