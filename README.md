@@ -28,7 +28,8 @@ Currently, I am building my foundation in computer science by studying different
 -  **C++**  
 -  **JavaScript**  
 -  **HTML & CSS**  
--  **Java** 
+-  **Java**
+-  **XAML**
 
 ## 📚 Education
 
