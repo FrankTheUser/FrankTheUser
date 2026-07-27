@@ -15,7 +15,7 @@
 
 # 👋 Hi, I'm Astro
 
-## 💻 Aspiring Software Developer | Sicily, Italy 🇮🇹
+## 💻 Aspiring Software Developer | Sicily, Italy 𖥂
 
 I am a 16-year-old student and self-taught developer from Sicily, passionate about programming, software development, and technology.
 
@@ -44,5 +44,5 @@ I believe that every line of code is a step forward in the journey of becoming a
 
 ---
 
-📍 **Based in Sicily, Italy**  
+📍 **Based in Sicily 𖥂, Italy**  
 💡 **Learning every day. Building step by step.**
